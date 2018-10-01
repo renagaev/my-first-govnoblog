@@ -4,3 +4,6 @@ djangoedu
 db.sqlite3
 .DS_Store
 .idea
+blog
+edu
+manage.py
